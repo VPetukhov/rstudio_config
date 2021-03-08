@@ -1,0 +1,18 @@
+{
+    "highlight_selected_line": true,
+    "show_invisibles": true,
+    "insert_spaces_around_equals": false,
+    "check_arguments_to_r_function_calls": true,
+    "warn_if_no_such_variable_in_scope": true,
+    "strip_trailing_whitespace": true,
+    "syntax_color_console": true,
+    "highlight_r_function_calls": true,
+    "default_project_location": "~/mh/Copenhagen",
+    "handle_errors_in_user_code_only": false,
+    "show_terminal_tab": false,
+    "save_workspace": "never",
+    "reuse_sessions_for_project_links": true,
+    "jobs_tab_visibility": "shown",
+    "load_workspace": false,
+    "posix_terminal_shell": "bash"
+}

@@ -1,0 +1,34 @@
+---
+title: ''
+date: "`r Sys.Date()`"
+author: "[Viktor Petukhov](https://github.com/VPetukhov/)"
+output:
+  html_document:
+    toc: yes
+    toc_depth: '3'
+    toc_float: true
+    df_print: paged
+---
+
+```{r libs, include=FALSE, message=FALSE}
+library(tidyverse)
+library(magrittr)
+
+knitr::opts_chunk$set(fig.width=5, fig.height=3)
+```
+
+## Analysis
+
+```{r}
+
+```
+
+
+## System Info
+
+```{r}
+si <- sessioninfo::session_info()
+si$platform
+as_tibble(si$packages)[,1:3]
+```
+

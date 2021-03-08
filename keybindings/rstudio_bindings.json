@@ -1,0 +1,14 @@
+{
+    "codeCompletion": "Ctrl+Space",
+    "commentUncomment": "Ctrl+/",
+    "goToFunctionDefinition": "Ctrl+B",
+    "layoutZoomConsole": "Ctrl+Shift+2",
+    "layoutZoomSource": "Ctrl+Shift+1",
+    "nextTab": "Alt+Right",
+    "previousTab": "Alt+Left",
+    "reformatCode": "Ctrl+Alt+L",
+    "sourceNavigateBack": "Ctrl+Alt+Left",
+    "sourceNavigateForward": "Ctrl+Alt+Right",
+    "notebookExpandAllOutput": "Ctrl+Shift+O",
+    "devtoolsLoadAll": "Ctrl+Shift+L"
+}
