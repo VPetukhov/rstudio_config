@@ -7,12 +7,13 @@
     "strip_trailing_whitespace": true,
     "syntax_color_console": true,
     "highlight_r_function_calls": true,
-    "default_project_location": "~/mh/Copenhagen",
     "handle_errors_in_user_code_only": false,
     "show_terminal_tab": false,
     "save_workspace": "never",
     "reuse_sessions_for_project_links": true,
     "jobs_tab_visibility": "shown",
     "load_workspace": false,
-    "posix_terminal_shell": "bash"
+    "posix_terminal_shell": "bash",
+    "document_author": "Viktor Petukhov",
+    "new_proj_git_init": true
 }

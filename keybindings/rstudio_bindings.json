@@ -10,5 +10,6 @@
     "sourceNavigateBack": "Ctrl+Alt+Left",
     "sourceNavigateForward": "Ctrl+Alt+Right",
     "notebookExpandAllOutput": "Ctrl+Shift+O",
-    "devtoolsLoadAll": "Ctrl+Shift+L"
+    "devtoolsLoadAll": "Ctrl+Shift+L",
+    "showCommandPalette": "Ctrl+P"
 }
