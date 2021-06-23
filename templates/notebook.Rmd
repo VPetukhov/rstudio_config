@@ -3,7 +3,7 @@ title: ''
 date: "`r Sys.Date()`"
 author: "[Viktor Petukhov](https://github.com/VPetukhov/)"
 output:
-  html_document:
+  html_notebook:
     toc: yes
     toc_depth: '3'
     toc_float: true
